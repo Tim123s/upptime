@@ -12,7 +12,9 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name:Facebook
-    url: https://www.facebook.com/
+    url: https://www.facebook.com
+  - name:PTT
+    url: https://term.ptt.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
